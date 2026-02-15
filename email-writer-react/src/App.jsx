@@ -14,9 +14,8 @@ function App() {
     setLoading(true);
     setError('');
     try {
-      console.log(process.env.REACT_APP_API_URL)
-      const fetchUrl = `${process.env.REACT_APP_API_URL}/api/email/generate`
-      console.log(process.env.REACT_APP_API_URL)
+      const fetchUrl = `${import.meta.env.VITE_API_URL}/api/email/generate`
+      console.log(import.meta.env.VITE_API_URL)
       const response = await axios.post(fetchUrl, {
        emailContent,
        tone 
