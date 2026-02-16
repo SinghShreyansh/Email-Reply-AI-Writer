@@ -1,4 +1,6 @@
-## Email Reply AI Writer 
+## Email Reply AI Writer  
+- (AI-powered email reply generator)
+  
 - [Docker Image URL](https://hub.docker.com/repository/docker/singhshreyansh/email-writer-app/general)
 - [Render Spring Boot Deployed URL](https://email-writer-app-latest-he8o.onrender.com/)
 - [Netlify React App Deployed URL](https://email-reply-ai-writer.netlify.app/)
