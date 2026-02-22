@@ -6,8 +6,12 @@
 - [Netlify React App Deployed URL](https://email-reply-ai-writer.netlify.app/)
 
 
-Result:
+### WEB Result:
 <img width="1903" height="947" alt="Image" src="https://github.com/user-attachments/assets/15d580dd-460b-4a7a-a83e-14791195ffa9" />
+
+### Chrome Extension Result:
+<img width="1272" height="672" alt="Image" src="https://github.com/user-attachments/assets/3cdcaaf4-2ea6-45ce-ae27-6b0f56f32ebd" />
+
 
 
 # Privacy Policy for Email Writer Assitant
